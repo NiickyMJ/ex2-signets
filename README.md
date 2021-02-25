@@ -1,3 +1,3 @@
-# Titre du site Web ou application
+# Exercice #2
 
-Court texte présentant votre site Web/application.
+Formatage de l'application *Signets*.
